@@ -4,7 +4,7 @@ import './App.css';
 
 function App() {
   const dfuseClient = createDfuseClient({
-    apiKey: '<YOUR API KEY HERE>',
+    apiKey: 'web_6208fc8ef6ad6baaad9751cad66639a9',
     network: 'mainnet.eth.dfuse.io'
   });
 
